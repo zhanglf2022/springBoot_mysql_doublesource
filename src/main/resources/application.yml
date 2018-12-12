@@ -1,0 +1,11 @@
+spring.datasource:
+  mysqlFirst:
+    url: jdbc:mysql://127.0.0.1:3306/zhanglfdatabase?useUnicode=true
+    username: root
+    password: 
+    driverClassName: com.mysql.jdbc.Driver
+  mysqlSecond:
+    url: jdbc:mysql://127.0.0.1:3306/jijin?useUnicode=true
+    username: root
+    password: 
+    driverClassName: com.mysql.jdbc.Driver   
